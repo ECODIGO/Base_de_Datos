@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/91554777/235196884-6cfb1909-3699-4c0f-ad0f-09ff27471105.png)
 
+![image](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/119757494/c77999d1-ecb7-4895-a7c8-4cab88e7d4bc)
+
+
+
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
 
