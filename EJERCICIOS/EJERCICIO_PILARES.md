@@ -4,6 +4,7 @@ https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/0 VERSION 1
 https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/1 VERSION BASE
 https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/2 VERSION CON MODIFICACIONES
 https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/4 VERSION CON USUARIOS INGRESADOS
+https://www.db-fiddle.com/f/n2TNnzMyhDxYKPM97wNNJS/1 BASE DE DATOS CON CONSULTA 
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
